@@ -1,21 +1,30 @@
-## Base Application
+## New Article Admin Panel
+
+#### built with
+
+| Tools  |  |
+| :--- | :--- |
+| Vue  | https://vuejs.org  |
+| Tailwind CSS | https://tailwindcss.com  |
+| etc |  |
+
 
 #### API
 
 https://github.com/qrizan/laravel-swagger-roles
 
-#### api configuration .env
+#### api configuration
+- file  .env
 ```
 VITE_BASE_URL=http://localhost:8000
 ```
 
 #### running
-
-> cd vue-tailwind-roles
-
-> npm i
-
-> npm run dev
+```
+cd vue-tailwind-roles
+npm i
+npm run dev
+```
 
 #### screenshot
 
